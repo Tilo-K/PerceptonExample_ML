@@ -4,8 +4,6 @@
     Github: https://github.com/Tilo-K
 */
 #include <iostream>
-#include <stdlib.h>
-#include <time.h>
 
 #define correct 0.621371
 
